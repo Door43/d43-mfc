@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mfc:home|Door43 (mfc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mfc|d43-mfc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mfc/archive/master.zip|d43-mfc.zip]]
+
+**Recent Changes**
+{{changes>ns = mfc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mfc|Ethnologue data]]
+
